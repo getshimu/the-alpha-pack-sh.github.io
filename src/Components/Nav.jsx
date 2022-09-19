@@ -90,7 +90,7 @@ export default function Nav() {
                 <div className="text-right flex-1 hidden space-x-2 md:inline-block">
                     <a
                         href="javascript:void(0)"
-                        className="custom-font px-4 py-2 text-white bg-gray-600 rounded-md shadow hover:bg-gray-800"
+                        className="custom-font px-4 py-2 text-white bg-black rounded-md shadow hover:bg-gray-800"
                     >
                         Twitter
                     </a>
